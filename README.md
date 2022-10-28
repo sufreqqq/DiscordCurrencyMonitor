@@ -1,6 +1,6 @@
 <p align="center">
   <br/>
-  <img src="https://media.discordapp.net/attachments/527533394049892389/1007948941238751263/3.png" width="150px">
+  <img src="https://media.discordapp.net/attachments/527533394049892389/1007948941238751263/3.png" width="150px" border-radius'15px'>
   <br/>
   <br/>
   <h1 align="center">
