@@ -11,7 +11,7 @@ Discord bot included ETH, APT, SOL exchange module and Gas Tracker
 
 - [TypeScript] - language for JavaScript
 - [node.js] - evented I/O for the backend
-- [axios] - HTTP client for node.js
+- [axios](https://github.com/axios/axios) - HTTP client for node.js
 - [discord.js] - node.js module for Discord
 
 ## Installation
