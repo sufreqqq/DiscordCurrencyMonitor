@@ -1,5 +1,22 @@
-# DiscordCurrencyMonitor
-Discord bot included ETH, APT, SOL exchange module and Gas Tracker
+<p align="center">
+  <br/>
+  <img src="https://media.discordapp.net/attachments/527533394049892389/1007948941238751263/3.png" width="150px">
+  <br/>
+  <br/>
+  <h1 align="center">
+    <p  align="center">
+      DiscordCurrencyMonitor
+    </p>
+  </h1>
+    <p align="center">
+      <b>
+        Discord bot included ETH, APT, SOL exchange module and Gas Tracker 
+      </b>
+    <p>
+  </p>
+  <br/>
+</p>
+
 
 ## Features
 
