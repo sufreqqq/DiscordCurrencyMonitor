@@ -1,0 +1,21 @@
+{
+    "delay": 10000,
+    "bots": [
+        {
+            "symbol": "ETH",
+            "token": "MTAzNDc3NDU5OTEzODgxMTkyNg.GTtlWq.qPuNEFXe9tGQ2JF02Ic5XnyiAPmuX2MzQFXV7g"
+        },
+        {
+            "symbol": "SOL",
+            "token": "MTAzNDc3NTA5NTg0NTA3Mjk2Ng.GZKue_.lcnnR1qP1dl5nPw9CWibJajVJyTWEkxED8mZU0"
+        },
+        {
+            "symbol": "APT",
+            "token": "MTAzNDc3NjMxNzI5MzQ5NDI3Mg.GXnkMv.Anb0lRLhoWSKqpespgrSfTjJvw5CRLPo2zZMLs"
+        },
+        {
+            "symbol": "GAS",
+            "token": "?"
+        }
+    ]
+}
