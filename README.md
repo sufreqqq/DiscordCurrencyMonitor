@@ -20,6 +20,6 @@ Discord bot included ETH, APT, SOL exchange module and Gas Tracker
 2. Go to src/config.json, put in your discord bot token and symbol like any 
 cryptocurrency existed on [cryptocurrency.com](https://min-api.cryptocompare.com/documentation)
 3. Go to .env and put in your API token of [cryptocurrency.com](https://min-api.cryptocompare.com/documentation) and [etherscan.io](https://etherscan.io/)
-4. `$ npm i init ./src/bot.ts`
+4. `$ npm init ./src/bot.ts`
 
 4. Enjoy it!
